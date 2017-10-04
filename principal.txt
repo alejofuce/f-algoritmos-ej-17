@@ -1,2 +1,4 @@
 Ciclo Repetitivo:
-"Ciclo repetitivo o buclepPermite realizar ciertas operaciones un numero determinado de veces"
+"Ciclo repetitivo o bucle permite realizar ciertas operaciones un numero determinado de veces"
+
+Alejandro F. (2017)
