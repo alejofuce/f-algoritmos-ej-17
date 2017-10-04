@@ -1,0 +1,2 @@
+Ciclo Repetitivo:
+"Ciclo repetitivo o buclepPermite realizar ciertas operaciones un numero determinado de veces"
