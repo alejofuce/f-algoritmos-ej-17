@@ -1,0 +1,59 @@
+Comandos Git hub
+
+ 1  echo "# f-algoritmos-ej-17" >> README.md
+    2  echo "# f-alegoritmos-ej-17" >> README.md
+    3  git init
+    4  git add README.md
+    5  git commit -m "first commit"
+    6  git remote add origin https://github.com/alejofuceof-algoritmos-ej-17.git
+    7  git push -u origin master
+    8  git config --global user.email "alejofuce@gmail.com"
+    9  git config --global user.name "Alejandro Fuertes"
+   10  echo "# f-algoritmos-ej-17" REDME.md
+   11  git init
+   12  git add README.md
+   13  git commit -m "first commit"
+   14  git remote add origin https://github.com/alejofuce/f-algoritmos-ej-17.git
+   15  git push -u origin master
+   16  git push -u origin master
+   17  echo "# f-algoritmos-ej-17" >> README.md
+   18  git push -u origin master
+   19  echo "# f-algoritmos-ej-17" >> README.md
+   20  git init
+   21  git add README.md
+   22  git commit -m "first commit"
+   23  git remote add origin https://github.com/alejofuce/f-algoritmos-ej-17.git
+   24  git push -u origin master
+   25  echo "# f-algoritmos-ej-17" >> README.md
+   26  git init
+   27  git add README.md
+   28  git commit -m "first commit"
+   29  git remote add origin https://github.com/alejofuce/f-algoritmos-ej-17.git
+   30  git push -u origin master
+   31  echo "# f-algoritmos-ej-17" >> README.md
+   32  git init
+   33  git add README.md
+   34  git commit -m "first commit"
+   35  git remote add origin https://github.com/alejofuce/f-algoritmos-ej-17.git
+   36  git push -u origin master
+   37  echo "# f-algoritmos-ej-17" >> README.md
+   38  git init
+   39  git add README.md
+   40  git commit -m "first commit"
+   41  git remote add origin https://github.com/alejofuce/f-algoritmos-ej-17.git
+   42  git push -u origin master
+   43  git status
+   44  git add principal.txt
+   45  git commit-m -a "mensaje..."
+   46  git commit -m -a "mensaje"
+   47  git commit -m -a"mensaje"
+   48  git push
+   49  git status
+   50  abrir principal.txt
+   51  git status
+   52  git commit -m -a"mensaje"
+   53  git push
+   54  git commit -m -a "Mensaje"
+   55  git commit -a -m "Mensaje"
+   56  git push
+   57  history
