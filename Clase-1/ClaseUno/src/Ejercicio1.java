@@ -21,9 +21,15 @@ public class Ejercicio1 {
         Scanner e = new Scanner(System.in);
         
         int num;
+        int mul;
         
         System.out.println("Ingrese el numero del que desea la tabla");
+        num = e.nextInt();
         
+        for(int i=1; i<=12; i++){
+            mul = num * i;
+            System.out.printf("%d * %d = %d\n",num, i, mul);
+        }
     }
     
 }
