@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ejercicio3;
-import ejercicio3.Carrera;
+
 /**
  *
  * @author eafuc
